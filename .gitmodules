@@ -1,0 +1,6 @@
+[submodule "client1/yclib"]
+	path = client1/yclib
+	url = https://github.com/6hassan/yclib.git
+[submodule "client2/yclib"]
+	path = client2/yclib
+	url = https://github.com/6hassan/yclib.git
